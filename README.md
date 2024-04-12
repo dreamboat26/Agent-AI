@@ -1,5 +1,5 @@
 # Agent-AI
-Welcome to the AI Toolbox Agent repository! This project aims to develop an artificial intelligence agent capable of utilizing a wide range of tools provided to it, enabling versatility and adaptability across various tasks and domains.
+Welcome to the AI Toolbox Agent repository! This project aims to develop an artificial intelligence agent capable of utilizing a wide range of tools provided to it, enabling versatility and adaptability across various tasks and domains. This work has been inspired from the AI Agent video by Tech with Tim.
 
 ## Overview
 
