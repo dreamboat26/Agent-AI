@@ -31,8 +31,8 @@ tools = [
     QueryEngineTool(
         query_engine=canada_engine,
         metadata=ToolMetadata(
-            name="canada_data",
-            description="this gives detailed information about canada the country",
+            name="india_data",
+            description="this gives detailed information about India the country",
         ),
     ),
 ]
