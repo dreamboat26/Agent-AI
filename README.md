@@ -23,3 +23,7 @@ Usage
 - Input Task: Provide the agent with the task you want it to perform.
 - Execute: Let the agent autonomously select and utilize the most suitable tools to accomplish the task.
 - Review Results: Evaluate the agent's performance and provide feedback for improvement if necessary.
+
+![1](https://github.com/dreamboat26/Agent-AI/assets/125608791/7a07c528-0aa2-4e23-916b-51926d68474e)
+
+![2](https://github.com/dreamboat26/Agent-AI/assets/125608791/b5beb764-e9d0-429a-9749-2f7574e2599a)
